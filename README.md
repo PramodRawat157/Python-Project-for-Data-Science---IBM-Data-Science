@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png" alt="Header"/> 
+ 
 # Python-Project-for-Data-Science---IBM-Data-Science
 
 
@@ -12,6 +14,7 @@ For this project, I will assume the role of a Data Scientist / Data Analyst work
 # 	📉 Dashboard Analytics Displayed
 
 A dashboard often provides a view of key performance indicators in a clear way. Analyzing a data set and extracting key performance indicators will be practiced. Prompts will be used to support learning in accessing and displaying data in dashboards. Learning how to display key performance indicators on a dashboard will be included in this assignment. We will be using Plotly in this course for data visualization and is not a requirement to take this course.
+
 
 In the Python for Data Science, AI and Development course you utilized Skills Network Labs for hands-on labs.
 
@@ -40,6 +43,7 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 - [Extracting Stock Data Using a Web Scraping](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
 
+![ViewCount](https://views.whatilearened.today/views/ .svg?cache=remove)
 - [ Final Project - Extracting and Visualizing Stock Data](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/4%20Final%20Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
 
 
@@ -51,7 +55,27 @@ This course is intended to demonstrate foundational Python skills for working wi
 - Dashboard creation
 
 
- 
+<center>
+ <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Module%203/images/IDSNlogo.png" width="300" alt="cognitiveclass.ai logo" />
+</center>   
+
+
+🏆 Certificates
+
+To verify the certificates, click the images to follow the links.
+
+ <p align="middle">
+  <a href="https://coursera.org/share/6b9718f79369deb9885daaebecb6fcca"><img src="https://user-images.githubusercontent.com/110245477/218280654-168be872-6015-4e4c-90fd-6295e8456987.png" height="430"></a>
+  <a href="https://www.credly.com/badges/6343ee63-61f5-47e7-ba3d-8c6c3373e8c5/public_url"><img src="https://user-images.githubusercontent.com/110245477/218280631-08f32781-77f2-483c-9c37-3a0314a1e149.png" height="430"></a>
+</p>
+
+
+<img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> Python Project for Data Science
+Issued by Coursera
+Authorized by IBM
+This badge earner demonstrates foundational Python skills for working with data. This includes: understanding the role of a Data Scientist / Data Analyst; applying Python fundamentals, working with Python data structures, and working with data in Python; and how to build a dashboard using Python and popular Python libraries using Jupyter notebook.
+This badge earner demonstrates foundational Python skills for working with data. This includes: understanding the role of a Data Scientist / Data Analyst; applying Python fundamentals, working with Python data structures, and working with data in Python; and how to build a dashboard using Python and popular Python libraries using Jupyter notebook.
+
 
 
 
