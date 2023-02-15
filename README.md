@@ -43,7 +43,6 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 - [Extracting Stock Data Using a Web Scraping](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
 
-![ViewCount](https://views.whatilearened.today/views/ .svg?cache=remove)
 - [ Final Project - Extracting and Visualizing Stock Data](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/4%20Final%20Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
 
 
